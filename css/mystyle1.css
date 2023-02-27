@@ -1,0 +1,13 @@
+body{
+    background-image: url('1.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+   
+}
+.form-container{
+    border: 0px ;
+    padding: 50px 60px;
+    margin-top: 30px;
+    box-shadow: 4px 10px 15px -3px rgba(0,0,0,0.1),0px 10px 7px 23px rgba(0,0,0,0.1),0px 10px 15px -3px rgba(0,0,0,0.1);
+}
+*{color: #fff};
